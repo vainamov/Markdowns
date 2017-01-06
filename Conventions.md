@@ -10,9 +10,8 @@
 |Constant|`private const DOWNFORCE = 4;`|CAPS|
 |Backingfield|`private int _port;`|*_*lowerCamelCase|
 |Parameter|`private void StartServer(int port) { }`|lowerCamelCase|
-|Method (params)|`public void SetSpeed(float speed) { }`|*Set*UpperCamelCase|
-|Method (!params)|`private void StartServer() { }`|UpperCamelCase|
-|Function (bool)|`public bool IsEnabled() { }`|*Is*UpperCamelCase|
+|Method|`private void StartServer() { }`|UpperCamelCase|
+|Function (bool)|`public bool IsEnabled() { }`|*Is/Has/...*UpperCamelCase|
 |Function (!bool)|`public IEnumerable<Player> GetPlayers() { }`|*Get*UpperCamelCase|
 |Enums|`public Enum EntityType { Player, Armorstand, ... }`|UpperCamelCase|
 
