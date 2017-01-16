@@ -11,8 +11,7 @@
 |Backingfield|`private int _port;`|*_*lowerCamelCase|
 |Parameter|`private void StartServer(int port) { }`|lowerCamelCase|
 |Method|`private void StartServer() { }`|UpperCamelCase|
-|Function (bool)|`public bool IsEnabled() { }`|*Is/Has/...*UpperCamelCase|
-|Function (!bool)|`public IEnumerable<Player> GetPlayers() { }`|*Get*UpperCamelCase|
+|Function (!bool)|`public IEnumerable<Player> GetPlayers() { }`|UpperCamelCase|
 |Enums|`public Enum EntityType { Player, Armorstand, ... }`|UpperCamelCase|
 
 |Other|
