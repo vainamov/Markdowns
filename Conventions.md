@@ -24,6 +24,7 @@
 |Use object initializer where possible.|
 |Use first letter of type for anonymous lambda functions. `Players.Find(p => p.UUID == ...)`|
 |Do no indent `case` in `switch` structures.|
+|Use Tabs instead of Spaces.|
 
 ### Spacing
 |Position|Space?|Example|
