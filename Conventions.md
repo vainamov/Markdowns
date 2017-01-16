@@ -46,8 +46,8 @@
 ### Wrapping
 |Position|Wrap?|`{` in new line?|
 |--------|-----|----------------|
-|Namespace|Yes|Yes|
-|Class/Enum/...|Yes|Yes|
+|Namespace|Yes|No|
+|Class/Enum/...|Yes|No|
 |Public fields|No|No|
 |Object initializers|Yes|Only the last|
 |If/Try/Loops/...|Yes|No|
@@ -56,10 +56,8 @@
 
 #### Example Code
 ```csharp
-namespace Project
-{
-  class Player
-  {
+namespace Project {
+  class Player {
     public int Health { get; set; }
     
     public Player() {
