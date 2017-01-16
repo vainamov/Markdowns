@@ -20,7 +20,7 @@
 |Start delegates with `D`.|
 |Explicitly type `private`.|
 |Explicitly type `{}` even on singleline if/loops.|
-|Use `var` instead of explicit declaration.|
+|Use `var` instead of explicit declaration where the type is obvious.|
 |Use object initializer where possible.|
 |Use first letter of type for anonymous lambda functions. `Players.Find(p => p.UUID == ...)`|
 |Do no indent `case` in `switch` structures.|
