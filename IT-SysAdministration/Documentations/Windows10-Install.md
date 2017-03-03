@@ -61,5 +61,7 @@ Use "New" ("Uusi") to create a new partition. Windows will automatically create 
 
 ### Finishing Touches
 - Navigate through the Windows Customization (using "Advanced" where possible) and disable all data-sensitive options. (Eg. "Send search terms and inputs to Microsoft to improve the functionality of Cortana" or whatsoever)
+- Choose between a private installation or a business installation.
 - Create a local Windows account. Even if you want to use a Microsoft Account, create a local account first and connect it afterwards.
+- After the virtual machine reboots, click "I Finished Installing" in VMware Workstation.
 - In VMware Workstation: Navigate to Player > Manage > Install VMware Tools. It will reboot your virtual machine and load a virtual cd to the vm's drive. Execute the set-up to install the VMware Tools.
