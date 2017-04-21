@@ -35,7 +35,7 @@ Given you have a server running on 10.60.20.251:1389 with a structure like this:
   
 Your configuration should look like the above screenshot. However, depending on your server software you might need to change the Member Attribute value to "memberUid" and/or the User DN Pattern to start with "cn=%u,".
 
-Next, switch to the "Authorization" tab at the bottom and configure it so it fits your needs (head to the [pGina docs](pgina.org/docs/v3.1/ldap.html) and look for "Authorization Options" for more details).  
+Next, switch to the "Authorization" tab at the bottom and configure it so it fits your needs (head to the [pGina docs](http://pgina.org/docs/v3.1/ldap.html) and look for "Authorization Options" for more details).  
 
 Finally, open the "Gateway" tab and map your LDAP groups to the corresponding local groups to ensure everyone will have the correct permissions. Save you configuration and click "Apply" in pGina to submit your changes to the registry.  
 
