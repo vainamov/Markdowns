@@ -4,7 +4,7 @@
 - Windows 7 or higher
 - A configured LDAP server
 - pGina (Downloadable at https://github.com/pgina/pgina/releases)
-> Note: It is highly recommended to create a recovery point and/or try this out in a virtual machine first.
+> Note: It is highly recommended to create a recovery point and/or using a virtual machine for testing first.
 
 #### Documentation Setup
 |OS|LDAP server|pGina|
