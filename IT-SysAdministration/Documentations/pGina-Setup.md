@@ -29,6 +29,7 @@ Head back to the "Plugin Selection" tab and double click the LDAP entry.
 
 ![Plugin](https://sjzwzw.bl3302.livefilestore.com/y4mAYEvx4Ahky5KWpD_chdEO8zaSzfm0njvQpuuN1pbhlD6pMPlVlngPokmmMfkdG1PXBAnWuHeX_2ok_cIN8HBuJOyDZpBBKJh5icBf8JY_4Q1-DJHi4TJfGmBMMbVzWl-5d0VtIHXk51rYf4WkYGRu4Pw5VgE1ADZLWm3SzgDRvnxVDRnRBqavdbhZ8nI2ZEGli52r_XEVlRGL8ZhKjZM_Q?width=702&height=534&cropmode=none)
 
+##### Authentication
 Given you have a server running on `10.60.20.251:1389` with a structure like this:
 - dc=ldap,dc=festival,dc=ml
   - ou=groups
@@ -41,8 +42,10 @@ Given you have a server running on `10.60.20.251:1389` with a structure like thi
   
 Your configuration should look like the above screenshot. However, depending on your server software you might need to change the Member Attribute value to `memberUid` and/or the User DN Pattern to start with `cn=%u,`.
 
+##### Authorization
 Next, switch to the "Authorization" tab at the bottom and configure it so it fits your needs (head to the [pGina docs](http://pgina.org/docs/v3.1/ldap.html) and look for "Authorization Options" for more details).  
 
+##### Group-Mapping (Gateway)
 Finally, open the "Gateway" tab and map your LDAP groups to the corresponding local groups to ensure everyone will have the correct permissions.  
 > Note: Make sure to use the exact local group names. If you're unsure about the correct spelling open the command line interface (`WIN+R` > `cmd`) and enter the `net localgroup` command.  
 
