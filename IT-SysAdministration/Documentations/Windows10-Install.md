@@ -8,7 +8,7 @@
 #### Virtual Machine
 |OS|Specs|
 |---|---|
-|Windows 10 Pro x86<br/>(10.0.14393 Koontikäännös 14393)<br/>FI-fi|3.02Gt RAM / 70Gt ROM|
+|Windows 10 Pro x86<br/>(10.0.14393 Build 14393)<br/>FI-fi|3.02GB RAM / 70GB ROM|
 
 ***
 ### Download Windows ISO
