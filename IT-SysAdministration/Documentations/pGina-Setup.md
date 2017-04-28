@@ -67,11 +67,11 @@ Should you run into issues with your pGina setup, there are several things that 
 ***
 ### Finishing Touches
 - Double click the Local Machine plugin in the "Plugin Selection" tab and check "Remove account and profile after logout when account does not exist prior to logon."  
-  This will force Windows to delete the profile created by pGina and prevent the `C:/Users/`-folder from overcrowding.
+  This will force Windows to delete the profile created by pGina and prevent the `C:\Users\`-folder from overcrowding.
 - Open the "General" tab and assign an image to the pGina service. You can also enter a MOTD (message of the day) and configure a message to display when connecting. This will change the appearance of the pGina entry in the login screen.
   
 ***
 ### Automatic Drive Mapping
-Using [pGina 3.2.1.1 Beta](https://github.com/pgina/pgina/releases/tag/v3.2.1.1) or newer, will provide a plugin called "Drive Mapper". Bespoken plugin has the ability to automatically map networks to the local machine.  
+Using [pGina 3.2.1.1 Beta](https://github.com/pgina/pgina/releases/tag/v3.2.1.1) or newer, will provide a plugin called "Drive Mapper". Bespoken plugin has the ability to automatically map network drives (e.g. a home directory on a samba server) to the local machine. If a stable version of pGina is prefered, it is also possible to download the plugin individually and include it in the existing pGina installtion by placing it in the plugins folder `C:\Program Files\pGina\Plugins\Core\`.  
 
 ![Plugin](https://dz50rq.bl3302.livefilestore.com/y4mSqh1KqdBCg_cflJAUyekxXWHxcM1ShKWQf5EM8zhBLPivVOBwGQlAUOw9be7eBkKwj5pYtk3cTOAeaFj0HZa48QBWjSK6jg-xjSEuq2qEAJgeU5STtgAOYHAuUZY8uysUr6nmnGvvQHMvcBMAU0qKd7h-PgvJHPLSnWV--tuqECGqRsmbs-tiQHiqa4G3Lc4IheIDNTLRcLWKlACnvx-7A?width=825&height=622&cropmode=none)
