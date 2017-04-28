@@ -29,7 +29,7 @@ Head back to the "Plugin Selection" tab and double click the LDAP entry.
 
 ![Plugin](https://sjzwzw.bl3302.livefilestore.com/y4mAYEvx4Ahky5KWpD_chdEO8zaSzfm0njvQpuuN1pbhlD6pMPlVlngPokmmMfkdG1PXBAnWuHeX_2ok_cIN8HBuJOyDZpBBKJh5icBf8JY_4Q1-DJHi4TJfGmBMMbVzWl-5d0VtIHXk51rYf4WkYGRu4Pw5VgE1ADZLWm3SzgDRvnxVDRnRBqavdbhZ8nI2ZEGli52r_XEVlRGL8ZhKjZM_Q?width=702&height=534&cropmode=none)
 
-##### Authentication
+#### Authentication
 Given you have a server running on `10.60.20.251:1389` with a structure like this:
 - dc=ldap,dc=festival,dc=ml
   - ou=groups
@@ -42,14 +42,17 @@ Given you have a server running on `10.60.20.251:1389` with a structure like thi
   
 Your configuration should look like the above screenshot. However, depending on your server software you might need to change the Member Attribute value to `memberUid` and/or the User DN Pattern to start with `cn=%u,`.
 
-##### Authorization
+#### Authorization
 Next, switch to the "Authorization" tab at the bottom and configure it so it fits your needs (head to the [pGina docs](http://pgina.org/docs/v3.1/ldap.html) and look for "Authorization Options" for more details).  
 
-##### Group-Mapping (Gateway)
+#### Group-Mapping (Gateway)
 Finally, open the "Gateway" tab and map your LDAP groups to the corresponding local groups to ensure everyone will have the correct permissions.  
-> Note: Make sure to use the exact local group names. If you're unsure about the correct spelling open the command line interface (`WIN+R` > `cmd`) and enter the `net localgroup` command.  
 
 ![Plugin](https://sjw78w.bl3302.livefilestore.com/y4m4AV0uDn-O4GQ_Ff6NG3naMAMKZeiTl7O1-AEyIIpHJfCO3Q-_Qzan2lfeeWW8mZFACh6tEy0JKM3c5LXxcee83REABLxZ9Z0jjEEQmMMj1xg3ewTMkxjEuUk4G4tNKARG6z7gp2gewJL7VBlV1NfKNFPGUAAmgxN6IAmam9Qj4Vtc17pCFBGDe4qQYDxD3FK9GFPFedw1ug62ukM0oOPHg?width=703&height=313&cropmode=none)  
+
+> Note: Make sure to use the exact local group names. If you're unsure about the correct spelling open the command line interface (`WIN+R` > `cmd`) and enter the `net localgroup` command.  
+
+![Plugin](https://dz6qlg.bl3302.livefilestore.com/y4mhBva97CJTCbSk6pUoqFzIkZccUDCUsJOMUIkPOnXwb6f4MXafvUMgmz3GO7tnK8WA_hQ6Aqp6TA8QbvOUPSw5suEO-ewzq6K52dWC0X0-L41jmt3NpsKU6JqnY4bU7wdknGPYQHR61BAERKiSZUmqVRwU_Orvm0I4_D9tTgoqwqknWoQfTbkFZWQ5Ck9mlGq8iK-wYppSx9eDgAun_VwjA?width=660&height=347&cropmode=none)  
 
 Save you configuration and click "Apply" in pGina to submit your changes to the registry.  
 
