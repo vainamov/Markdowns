@@ -54,7 +54,7 @@ Finally, open the "Gateway" tab and map your LDAP groups to the corresponding lo
 
 ![Plugin](https://dz6qlg.bl3302.livefilestore.com/y4mhBva97CJTCbSk6pUoqFzIkZccUDCUsJOMUIkPOnXwb6f4MXafvUMgmz3GO7tnK8WA_hQ6Aqp6TA8QbvOUPSw5suEO-ewzq6K52dWC0X0-L41jmt3NpsKU6JqnY4bU7wdknGPYQHR61BAERKiSZUmqVRwU_Orvm0I4_D9tTgoqwqknWoQfTbkFZWQ5Ck9mlGq8iK-wYppSx9eDgAun_VwjA?width=660&height=347&cropmode=none)  
 
-Save you configuration and click "Apply" in pGina to submit your changes to the registry.  
+Save your configuration and click "Apply" in pGina to submit your changes to the registry.  
 
 ***
 ### Testing
@@ -63,3 +63,9 @@ There are two possible ways of testing your pGina setup. You can either use the 
 ***
 ### Troubleshooting
 Should you run into issues with your pGina setup, there are several things that might help you. First, check the simulation log (click the "Show Log" button in the Simulation tab). It should provide enough details to determine where things mess up. If this doesn't help you fixing the problem on your own, head to the [closed issues on the pGina repository](https://github.com/pgina/pgina/issues?q=is%3Aissue+is%3Aclosed) and check if your problem has been discovered and solved already. If none of this was successful, [create a new issue](https://github.com/pgina/pgina/issues/new) and try to describe your situation as detailed as possible (include the log as well). 
+
+***
+### Finishing Touches
+- Double click the Local Machine plugin in the "Plugin Selection" tab and check "Remove account and profile after logout when account does not exist prior to logon."  
+  This will force Windows to delete the profile created by pGina and prevent the `C:/Users/`-folder from overcrowding.
+- Open the "General" tab and assign an image to the pGina service. You can also enter a MOTD (message of the day) and configure a message to display when connecting. This will change the appearance of the pGina entry in the login screen.
