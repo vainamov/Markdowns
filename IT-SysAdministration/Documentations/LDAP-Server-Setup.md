@@ -20,3 +20,7 @@ In LDAP Admin, click the top left "Connect" button and double click the "New Con
 Enter your corresponding server data and confirm with "OK". After adding the server, double click the entry to connect.
   
 #### Implementing Basic Structure
+Select your base dn and press `Ctrl+O` to create new organizational units (OU). In the example, we created one for all groups, and one for all members (/users).
+  
+#### Creating Groups
+Select the `ou=groups` entry and press `Ctrl+G` to create a new group.
