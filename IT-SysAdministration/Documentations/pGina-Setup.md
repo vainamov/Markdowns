@@ -14,9 +14,15 @@
 ***
 ### Configure pGina
 #### Activate Plugins
-In pGina, open the tab "Plugin Selection" and tick the boxes "Authentication", "Authorization" and "Gateway" on both the LDAP plugin and the Local Machine plugin.
+In pGina, open the tab "Plugin Selection" and tick the boxes "Authentication", "Authorization" and "Gateway" on both the LDAP plugin and the Local Machine plugin.  
+
+![Plugin](https://sjwtzq.bl3302.livefilestore.com/y4mJPx0WRL9v3788HAD_9P7eVlqdK2O6N3eUsdudm6f1mJcm4BYfqxn3fhZhR4QD8Vdl0mD_fLGc_SuXaxTjQuHs6u11isZnZSvaihWEJ_vlUjYFPFL1DV9_2tx67moirwPfqP6lYfXH9RS8FIrUU1stpnOu29zM6z9FY_9V27oiU7402gYOYKU35AsD_gpICR9krSKfi05sVBwPSJl4szCEQ?width=825&height=669&cropmode=none)  
+
 #### Re-order Plugins
-Open the "Plugin Order" tab and use the arrow buttons to make sure that LDAP comes first in "Authorization" and "Gateway" but last in "Authentication".
+Open the "Plugin Order" tab and use the arrow buttons to make sure that LDAP comes first in "Authorization" and "Gateway" but last in "Authentication".  
+
+![Plugin](https://sjzi2q.bl3302.livefilestore.com/y4mvUpQwc-rk1b6WCpfif9Ii1wI1VLaclS7LJwW5JEibWa0LwkZMmcBpgEmG0XHHqgNO20fIrokA4Rwv-ibUecO2yATDJ03ILgi5PDdTCkAjKwiK2yae2xASe0VFR38lUgWdZPr9aSVvvNf7Xl9spkTwPXMGOm4JrnyQ-RIrXNYIj3D_j7ZaVslvNUwH4yJrK1hicscQpsiGdSfelKo-1UA6A?width=825&height=671&cropmode=none)  
+
 #### Configuring the LDAP Plugin
 (Depending on your server configuration, this step might be different for you.)  
 Head back to the "Plugin Selection" tab and double click the LDAP entry.  
@@ -39,6 +45,8 @@ Next, switch to the "Authorization" tab at the bottom and configure it so it fit
 
 Finally, open the "Gateway" tab and map your LDAP groups to the corresponding local groups to ensure everyone will have the correct permissions.  
 > Note: Make sure to use the exact local group names. If you're unsure about the correct spelling open the command line interface (`WIN+R` > `cmd`) and enter the `net localgroup` command.  
+
+![Plugin](https://sjw78w.bl3302.livefilestore.com/y4m4AV0uDn-O4GQ_Ff6NG3naMAMKZeiTl7O1-AEyIIpHJfCO3Q-_Qzan2lfeeWW8mZFACh6tEy0JKM3c5LXxcee83REABLxZ9Z0jjEEQmMMj1xg3ewTMkxjEuUk4G4tNKARG6z7gp2gewJL7VBlV1NfKNFPGUAAmgxN6IAmam9Qj4Vtc17pCFBGDe4qQYDxD3FK9GFPFedw1ug62ukM0oOPHg?width=703&height=313&cropmode=none)  
 
 Save you configuration and click "Apply" in pGina to submit your changes to the registry.  
 
