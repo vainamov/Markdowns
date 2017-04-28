@@ -7,9 +7,9 @@
 > Note: It is highly recommended to create a recovery point and/or using a virtual machine for testing first.
 
 #### Documentation Setup
-|OS|LDAP server|pGina|
-|---|---|---|
-|Windows 10 Pro x86<br/>(10.0.14393 Koontikäännös 14393)<br/>FI-fi<br />3.02Gt RAM / 70Gt ROM|OpenDJ Server 3.0.0|pGina 3.2.4.1 Beta|
+|OS|pGina|
+|---|---|
+|Windows 10 Pro x86<br/>(10.0.14393 Build 14393)<br/>FI-fi<br />3.02GB RAM / 70GB ROM|pGina 3.1.8.0|
 
 ***
 ### Configure pGina
