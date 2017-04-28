@@ -9,7 +9,7 @@
 #### Documentation Setup
 |OS|pGina|
 |---|---|
-|Windows 10 Pro x86<br/>(10.0.14393 Build 14393)<br/>FI-fi<br />3.02GB RAM / 70GB ROM|pGina 3.1.8.0|
+|Windows 10 Pro x86<br/>(Version 1607 Build 14393.953)<br/>FI-fi<br />3.02GB RAM / 70GB ROM|pGina 3.1.8.0|
 
 ***
 ### Configure pGina
