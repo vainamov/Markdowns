@@ -62,10 +62,16 @@ There are two possible ways of testing your pGina setup. You can either use the 
   
 ***
 ### Troubleshooting
-Should you run into issues with your pGina setup, there are several things that might help you. First, check the simulation log (click the "Show Log" button in the Simulation tab). It should provide enough details to determine where things mess up. If this doesn't help you fixing the problem on your own, head to the [closed issues on the pGina repository](https://github.com/pgina/pgina/issues?q=is%3Aissue+is%3Aclosed) and check if your problem has been discovered and solved already. If none of this was successful, [create a new issue](https://github.com/pgina/pgina/issues/new) and try to describe your situation as detailed as possible (include the log as well). 
-
+Should you run into issues with your pGina setup, there are several things that might help you. First, check the simulation log (click the "Show Log" button in the Simulation tab). It should provide enough details to determine where things mess up. If this doesn't help you fixing the problem on your own, head to the [closed issues on the pGina repository](https://github.com/pgina/pgina/issues?q=is%3Aissue+is%3Aclosed) and check if your problem has been discovered and solved already. If none of this was successful, [create a new issue](https://github.com/pgina/pgina/issues/new) and try to describe your situation as detailed as possible (include the log as well).
+  
 ***
 ### Finishing Touches
 - Double click the Local Machine plugin in the "Plugin Selection" tab and check "Remove account and profile after logout when account does not exist prior to logon."  
   This will force Windows to delete the profile created by pGina and prevent the `C:/Users/`-folder from overcrowding.
 - Open the "General" tab and assign an image to the pGina service. You can also enter a MOTD (message of the day) and configure a message to display when connecting. This will change the appearance of the pGina entry in the login screen.
+  
+***
+### Automatic Drive Mapping
+Using [pGina 3.2.1.1 Beta](https://github.com/pgina/pgina/releases/tag/v3.2.1.1) or newer, will provide a plugin called "Drive Mapper". Bespoken plugin has the ability to automatically map networks to the local machine.  
+
+[!Plugin](https://dz50rq.bl3302.livefilestore.com/y4mSqh1KqdBCg_cflJAUyekxXWHxcM1ShKWQf5EM8zhBLPivVOBwGQlAUOw9be7eBkKwj5pYtk3cTOAeaFj0HZa48QBWjSK6jg-xjSEuq2qEAJgeU5STtgAOYHAuUZY8uysUr6nmnGvvQHMvcBMAU0qKd7h-PgvJHPLSnWV--tuqECGqRsmbs-tiQHiqa4G3Lc4IheIDNTLRcLWKlACnvx-7A?width=825&height=622&cropmode=none)
