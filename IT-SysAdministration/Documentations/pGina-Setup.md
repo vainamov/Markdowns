@@ -74,4 +74,4 @@ Should you run into issues with your pGina setup, there are several things that 
 ### Automatic Drive Mapping
 Using [pGina 3.2.1.1 Beta](https://github.com/pgina/pgina/releases/tag/v3.2.1.1) or newer, will provide a plugin called "Drive Mapper". Bespoken plugin has the ability to automatically map networks to the local machine.  
 
-[!Plugin](https://dz50rq.bl3302.livefilestore.com/y4mSqh1KqdBCg_cflJAUyekxXWHxcM1ShKWQf5EM8zhBLPivVOBwGQlAUOw9be7eBkKwj5pYtk3cTOAeaFj0HZa48QBWjSK6jg-xjSEuq2qEAJgeU5STtgAOYHAuUZY8uysUr6nmnGvvQHMvcBMAU0qKd7h-PgvJHPLSnWV--tuqECGqRsmbs-tiQHiqa4G3Lc4IheIDNTLRcLWKlACnvx-7A?width=825&height=622&cropmode=none)
+![Plugin](https://dz50rq.bl3302.livefilestore.com/y4mSqh1KqdBCg_cflJAUyekxXWHxcM1ShKWQf5EM8zhBLPivVOBwGQlAUOw9be7eBkKwj5pYtk3cTOAeaFj0HZa48QBWjSK6jg-xjSEuq2qEAJgeU5STtgAOYHAuUZY8uysUr6nmnGvvQHMvcBMAU0qKd7h-PgvJHPLSnWV--tuqECGqRsmbs-tiQHiqa4G3Lc4IheIDNTLRcLWKlACnvx-7A?width=825&height=622&cropmode=none)
