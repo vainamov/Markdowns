@@ -50,7 +50,7 @@ Finally, open the "Gateway" tab and map your LDAP groups to the corresponding lo
 
 ![Plugin](https://sjw78w.bl3302.livefilestore.com/y4m4AV0uDn-O4GQ_Ff6NG3naMAMKZeiTl7O1-AEyIIpHJfCO3Q-_Qzan2lfeeWW8mZFACh6tEy0JKM3c5LXxcee83REABLxZ9Z0jjEEQmMMj1xg3ewTMkxjEuUk4G4tNKARG6z7gp2gewJL7VBlV1NfKNFPGUAAmgxN6IAmam9Qj4Vtc17pCFBGDe4qQYDxD3FK9GFPFedw1ug62ukM0oOPHg?width=703&height=313&cropmode=none)  
 
-> Note: Make sure to use the exact local group names. If you're unsure about the correct spelling open the command line interface (`WIN+R` > `cmd`) and enter the `net localgroup` command.  
+> Note: Make sure to use the exact local group names. If you're unsure about the correct spelling open the command line interface (`WIN+R` > `cmd`) and enter the `net localgroup` command. It produces an output similar to the one shown below and lists all existing groups.  
 
 ![Plugin](https://dz6qlg.bl3302.livefilestore.com/y4mhBva97CJTCbSk6pUoqFzIkZccUDCUsJOMUIkPOnXwb6f4MXafvUMgmz3GO7tnK8WA_hQ6Aqp6TA8QbvOUPSw5suEO-ewzq6K52dWC0X0-L41jmt3NpsKU6JqnY4bU7wdknGPYQHR61BAERKiSZUmqVRwU_Orvm0I4_D9tTgoqwqknWoQfTbkFZWQ5Ck9mlGq8iK-wYppSx9eDgAun_VwjA?width=660&height=347&cropmode=none)  
 
