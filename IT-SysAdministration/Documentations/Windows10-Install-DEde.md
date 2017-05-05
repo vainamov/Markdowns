@@ -37,27 +37,27 @@ Auf "Finish" klicken um die Einrichtung abzuschließen.
 #### Sprache und Region wählen
 Die gewünschte Sprache und Region, sowie das gewünschte Tastaturlayout auswählen und auf "Weiter" ("Seuraava") klicken.  
 
-![Region And Language](https://rsegwg.bl3302.livefilestore.com/y3mK2nWv4_UNdn1FONBnmB34wMKmJrXm6y6Wf_YK1dBzkHwW9vTQXLtoliHBLqQ2PIpk00zHxVK3jh-LaIryueYaepCwAXYX7YkFSuChFIS3cGMS7SNY4GlaCBWGyIg7IVdI4twEbkvbMGgKbLDh3-Q2p5q7-ghfbOOXPwRFXC7hmU?width=1024&height=557&cropmode=none)
+![Region And Language](https://rsegwg.bl3302.livefilestore.com/y4mmUjIrmrNXvnvFFaOSkRAeY9DTCp70t41dlMz4rfOynk2BH8X5TaRr2HZM0foc5bJTEJXfvpc5JiQrccyx33k1vBJz75nk_EXWhQ245uV6xuqep6vHjEzyxUR2zlip-aEPcw4lNOyY5R-W3x1wt0Hi7lJOjJbxZQKgVbflXm450o7yDObOD9AsWO-P5lIb8qxihjKq4Ol2e6JW9PxP8_uLw?width=619&height=458&cropmode=none)
 #### Aktivierung
 Entweder den Lizenzschlüssel eingeben (sofern vorhanden) und mit "Weiter" ("Seuraava") bestätigen, oder "Ich habe keinen Produkt-Key" ("Minulla ei ole tuoteavainta") auswählen um die Aktivierung später durchzuführen.  
 
-![Key](https://sjxqlq.bl3302.livefilestore.com/y3mQ_EyLtgidJaFOASlrVei6NGI6XMHIStfmWxaqr6-zG7r6Q4ql8p2I25F3NgS5TDmryQfPuRmzicKwx_8mbD5XRAP8Y-KniAR9hoXC3CQ_WPbV_8FJcU_UMq_Mp6yBAbXtQAXLfhKQu5S1BuW80igrOC1AaWcpFzwzeal3qv6ApI?width=1024&height=557&cropmode=none)
+![Key](https://sjxqlq.bl3302.livefilestore.com/y4mHOpNByZQYsm1fKTo7lfkPabqQ5g7GVy7SgmKnamFnmpJiDtTcsiwyFXYO9RKoiDD6gUUlKldApE8zvUTG5j3SDL6awvSinmrGc8WOIdh7u4sriSkIX3D0RX3qDgTq-LAYqYfWRD2H4k7FJXfduYalbToVS3WrEdsvjaCZJNq5JbUzm7n33jRLpAiZZZNjpt8tuRqMMR41Z8O54WmazEiUw?width=641&height=483&cropmode=none)
 #### Windows Version wählen
 In Abhängigkeit vom Lizenzschlüssel stehen die Versionen Windows 10 Pro, Home oder Education, sowie die jeweiligen x86 bzw. x64 Architekturen zur Verfügung. Die gewünschte Version auswählen und mit "Weiter" ("Seuraava") bestätigen.  
 
-![Version](https://sjzpia.bl3302.livefilestore.com/y3mnfVETf77SiBmr-F9OJq51KqIgFBX_5BeqM7n7jrZYlCOyrTZQ0hMIrx6-5ZY8xmDXVk85ZzluhH0KGYdiAQRWR8yX1NrWqLWQGOKAyeSXLCEpv9LGAc4msqYoBbEkdLdI5TGZIooGdgZajybVyvwzDAfKzx17KqQGSXflwu6Yxs?width=1024&height=557&cropmode=none)
+![Version](https://sjzpia.bl3302.livefilestore.com/y4mbEz5wByks-EZzwBerV8RiERcdDpcZyFCwe9pPBDkmGP4mudYXe2nCD0mc-wSTdKuAl-Vl-SAtwY1bWTVs26AdM7kHbnZ9BsC3q8tF-UNJLxFguuXENkjGs1E5wyJwTbnso7UrtTUN4AQcHpWO8eQ6vA8WeXIfJb1yJO1cZkqqIs94I4aYwzMEOM1Xqlcd8buGYugTXHWYV51bodONEwo_Q?width=641&height=483&cropmode=none)
 #### EULA
 Bevor die Windows Installation gestartet werden kann muss die EULA (Endbenutzer-Lizenzvereinbarung) (gelesen und) bestätigt werden. Mit "Ich habe die EULA gelesen und akzeptiert" ("Hyäksyn käyttöoikeussopimuksen ehdot") bestätigen und "Weiter" ("Seuraava") klicken.  
 
-![EULA](https://sjwmuq.bl3302.livefilestore.com/y3meAoOQ2SZjqomdp5mFyBCc1DUrsJGRdIB8Bhavuaaq_fqXHhUdOE8HR8eoRj_YXBNYnZTzXF01K-WvuZPi7rGVX-RZQKDp2ul_na9rtDF0yHlriW4HXHAIbxpb-uLYIGBap2ttcmozezYe5BnhCEKpMK5WsuRgaHB2riuhPC-eeQ?width=1024&height=557&cropmode=none)
+![EULA](https://sjwmuq.bl3302.livefilestore.com/y4mgqmnAi4St0ZkfwIRDjBB0hLd66wtCGTlcYOVF7ABrVryZnK8qf5c5rVAjDwMyqsf3acYqewUldmTj19mILlx-NjLwXisYLUitYXpJ_8igaD3PX8DyOfYo6ea163dyHpWa78xtaqVbK-5fFyz9eNvsfQM5fBnx0bWkUJtF8q3SZcexxdiyJKz-d9pIMRCqgQ7cLPOuR0be4FOYiDit20JLQ?width=641&height=481&cropmode=none)
 #### Installationsmethode wählen
 Es gibt die Möglichkeit Windows neu zu installieren und dabei alle Dateien zu behalten ("Upgrade"/"Päivitys") oder einen sogenannten "Fresh-Install" durchzuführen. Hierbei werden alle Dateien auf der Festplatte gelöscht. ("Angepasst"/"Mukautettu").  
 
-![Method](https://sjxx3a.bl3302.livefilestore.com/y3mmE04zVlZcFj-5rxYxfaPz0HO_abZC8ng1OfvKmpK4mvSTNglaN5TveH2wYA3fXuo-OByp7yRNA8SnIehqSliSr6hLzbNq250an9aRlV8rYrfhZ9ii9mN_Rt3-4E2hcjIREw6KQe7Q9eqmFkyBdhu1Wd7C40vBNJhHlj8NgBEbvw?width=1024&height=557&cropmode=none)
+![Method](https://sjxx3a.bl3302.livefilestore.com/y4mSvE-E3vv0z85NGon6Mg_DtDDyzulP1p_fXtncLJyb5XkKdzCIfCvVZahtkVS26MHF0DzV4sL39WvDvkWEzn0n8VurThhhl9h9MFdYwgVQuK9VR4KDmjH2tZk_reXO8bCzmmY5h9NEADbZIbkkI1FtSmvmFQ3j4o9jO6WilJowBw9QtEJziiWv6IZuIkyTeqlYAMtBc-YLHk2h7aQ4MDttg?width=640&height=479&cropmode=none)
 #### Partitionen erstellen
 Mit "Neu" ("Uusi") werden neue Partitionen erstellt. Windows wird hierbei automatisch eine system-reservierte Partition (500MB) für jeder erstelle Partition anlegen. Allerdings lassen sich diese löschen ("Poista") und die bestehenden Partitionen erweitern ("Laajenna") um die 500MB neu zu vergeben. Mit einem Klick auf die gewünschte Installationspartition und "Weiter" ("Seuraava") beginnt Windows mit der Installation.
 
-![Partitions](https://sjwfcg.bl3302.livefilestore.com/y3moMmTCkDP7fwHPacmcY8OCgBBiTodGE29iQH7dkztTucAbibnr6rk-Dn36csOuzSY9qD8OIIHdDHEaswzROHyPYRshEV1899efYBOjZdmEelI3E7O93-2ylU0wYVgDMZu7-8Mqye3tj31lSPiXI6GFfrXdk_vwD_nx2HPgqwfos0?width=1024&height=557&cropmode=none)
+![Partitions](https://sjwfcg.bl3302.livefilestore.com/y4m3652mOZAXYAdHBZu1NLbRUKOPg4UrV7t5MDSvbQA4xb_p9rQCHnJ2s376HytyazIgjt-IaJlHga8bJ7zWiSfM7zCSYIKUmoodGLCqmBsHveV3FEjG1WQmVBghzyljmvIZGpCX_AZ5pd6-9zy2psHOQhE9UBG83p4PUYVGupo8-yOJFbmsth-mnYU9Eup-ijJ5dVHsMGkMfyPdhHCgpCrwQ?width=640&height=480&cropmode=none)
 
 ### Abschließen
 - Beim Konfigurieren von Windows ("Benutzerdefiniert" wo möglich wählen) sollten alle Datenschutz-relevaten Optionen deaktiviert werden.
