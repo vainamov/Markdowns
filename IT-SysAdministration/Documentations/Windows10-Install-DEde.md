@@ -61,7 +61,7 @@ Mit "Neu" ("Uusi") werden neue Partitionen erstellt. Windows wird hierbei automa
 
 ### Abschließen
 - Beim Konfigurieren von Windows ("Angepasst" wo möglich wählen) sollten alle Datenschutz-relevaten Optionen deaktiviert werden.
-- Es sollte zwischen einer privaten und einer Business Installation.
-- Es sollte immer zu erst ein lokaler Account erstellt werden. Selbst wenn die Verwendung eines Microsoft Accounts geplant ist, sollte erst ein lokaler Account erstellt werden und dann mit dem Microsoft Account verbunden werden.
-- Nachdem dem Neustart der VM "I Finished Installing" in VMware Workstation auswählen.
-- In VMware Workstation: Nach Player > Manage > Install VMware Tools navigieren. Die virtuelle Maschine wird daraufhin neustarten und ein Setup für die VMWare Tools in das Laufwerk der VM laden.
+- Es sollte zwischen einer privaten und einer Business Installation entschieden werden.
+- Es sollte immer zu erst ein lokaler Account erstellt werden. Selbst wenn die Verwendung eines Microsoft Accounts geplant ist, sollte erst ein lokaler Account erstellt werden und dieser dann mit dem Microsoft Account verbunden werden.
+- Nach dem Neustart der VM "I Finished Installing" in VMware Workstation auswählen.
+- In VMware Workstation: Nach "Player > Manage > Install VMware Tools" navigieren. Die virtuelle Maschine wird daraufhin neustarten und ein Setup für die VMware Tools in das Laufwerk der VM laden.
