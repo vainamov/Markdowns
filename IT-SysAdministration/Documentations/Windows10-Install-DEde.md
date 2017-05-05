@@ -33,7 +33,7 @@ Auf "Finish" klicken um die Einrichtung abzuschließen.
 
 ***
 ### Windows Installation konfigurieren
-(Für diese Dokumentation wurde eine finnischsprachige ISO verwendet. Die Screenshots enthalten daher ausschließlich finnische Texte. Zum besseren Verständnis, werden hier bei Verweisen auf die Screenshots die finnischen Bezeichnungen mit angegeben.)
+(Für diese Dokumentation wurde eine finnischsprachige ISO verwendet. Die Screenshots enthalten daher ausschließlich finnische Texte. Zum besseren Verständnis werden hier bei Verweisen auf UI Elemente die finnischen Bezeichnungen mit angegeben.)
 #### Sprache und Region wählen
 Die gewünschte Sprache und Region, sowie das gewünschte Tastaturlayout auswählen und auf "Weiter" ("Seuraava") klicken.  
 
