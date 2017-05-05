@@ -39,19 +39,19 @@ Die gewünschte Sprache und Region, sowie das gewünschte Tastaturlayout auswäh
 
 ![Region And Language](https://rsegwg.bl3302.livefilestore.com/y4mmUjIrmrNXvnvFFaOSkRAeY9DTCp70t41dlMz4rfOynk2BH8X5TaRr2HZM0foc5bJTEJXfvpc5JiQrccyx33k1vBJz75nk_EXWhQ245uV6xuqep6vHjEzyxUR2zlip-aEPcw4lNOyY5R-W3x1wt0Hi7lJOjJbxZQKgVbflXm450o7yDObOD9AsWO-P5lIb8qxihjKq4Ol2e6JW9PxP8_uLw?width=619&height=458&cropmode=none)
 #### Aktivierung
-Entweder den Lizenzschlüssel eingeben (sofern vorhanden) und mit "Weiter" ("Seuraava") bestätigen, oder "Ich habe keinen Produkt-Key" ("Minulla ei ole tuoteavainta") auswählen um die Aktivierung später durchzuführen.  
+Entweder den Lizenzschlüssel eingeben (sofern vorhanden) und mit "Weiter" ("Seuraava") bestätigen, oder "Ich habe keinen Produkt Key" ("Minulla ei ole tuoteavainta") auswählen um die Aktivierung später durchzuführen.  
 
 ![Key](https://sjxqlq.bl3302.livefilestore.com/y4mHOpNByZQYsm1fKTo7lfkPabqQ5g7GVy7SgmKnamFnmpJiDtTcsiwyFXYO9RKoiDD6gUUlKldApE8zvUTG5j3SDL6awvSinmrGc8WOIdh7u4sriSkIX3D0RX3qDgTq-LAYqYfWRD2H4k7FJXfduYalbToVS3WrEdsvjaCZJNq5JbUzm7n33jRLpAiZZZNjpt8tuRqMMR41Z8O54WmazEiUw?width=641&height=483&cropmode=none)
 #### Windows Version wählen
-In Abhängigkeit vom Lizenzschlüssel stehen die Versionen Windows 10 Pro, Home oder Education, sowie die jeweiligen x86 bzw. x64 Architekturen zur Verfügung. Die gewünschte Version auswählen und mit "Weiter" ("Seuraava") bestätigen.  
+In Abhängigkeit von der ISO und dem Lizenzschlüssel stehen die Versionen Windows 10 Pro, Home oder Education, sowie die jeweiligen x86 bzw. x64 Architekturen zur Verfügung. Die gewünschte Version auswählen und mit "Weiter" ("Seuraava") bestätigen.  
 
 ![Version](https://sjzpia.bl3302.livefilestore.com/y4mbEz5wByks-EZzwBerV8RiERcdDpcZyFCwe9pPBDkmGP4mudYXe2nCD0mc-wSTdKuAl-Vl-SAtwY1bWTVs26AdM7kHbnZ9BsC3q8tF-UNJLxFguuXENkjGs1E5wyJwTbnso7UrtTUN4AQcHpWO8eQ6vA8WeXIfJb1yJO1cZkqqIs94I4aYwzMEOM1Xqlcd8buGYugTXHWYV51bodONEwo_Q?width=641&height=483&cropmode=none)
 #### EULA
-Bevor die Windows Installation gestartet werden kann muss die EULA (Endbenutzer-Lizenzvereinbarung) (gelesen und) bestätigt werden. Mit "Ich habe die EULA gelesen und akzeptiert" ("Hyäksyn käyttöoikeussopimuksen ehdot") bestätigen und "Weiter" ("Seuraava") klicken.  
+Bevor die Windows Installation gestartet werden kann, muss die EULA (Endbenutzer-Lizenzvereinbarung) (gelesen und) bestätigt werden. Mit "Ich akzeptiere die Lizenzbedingungen" ("Hyäksyn käyttöoikeussopimuksen ehdot") bestätigen und "Weiter" ("Seuraava") klicken.  
 
 ![EULA](https://sjwmuq.bl3302.livefilestore.com/y4mgqmnAi4St0ZkfwIRDjBB0hLd66wtCGTlcYOVF7ABrVryZnK8qf5c5rVAjDwMyqsf3acYqewUldmTj19mILlx-NjLwXisYLUitYXpJ_8igaD3PX8DyOfYo6ea163dyHpWa78xtaqVbK-5fFyz9eNvsfQM5fBnx0bWkUJtF8q3SZcexxdiyJKz-d9pIMRCqgQ7cLPOuR0be4FOYiDit20JLQ?width=641&height=481&cropmode=none)
 #### Installationsmethode wählen
-Es gibt die Möglichkeit Windows neu zu installieren und dabei alle Dateien zu behalten ("Upgrade"/"Päivitys") oder einen sogenannten "Fresh-Install" durchzuführen. Hierbei werden alle Dateien auf der Festplatte gelöscht. ("Angepasst"/"Mukautettu").  
+Es gibt die Möglichkeit Windows neu zu installieren und dabei alle Dateien zu behalten ("Upgrade"/"Päivitys") oder einen sogenannten "Fresh-Install" durchzuführen. Hierbei werden alle Dateien auf der Festplatte gelöscht. ("Benutzerdefiniert"/"Mukautettu").  
 
 ![Method](https://sjxx3a.bl3302.livefilestore.com/y4mSvE-E3vv0z85NGon6Mg_DtDDyzulP1p_fXtncLJyb5XkKdzCIfCvVZahtkVS26MHF0DzV4sL39WvDvkWEzn0n8VurThhhl9h9MFdYwgVQuK9VR4KDmjH2tZk_reXO8bCzmmY5h9NEADbZIbkkI1FtSmvmFQ3j4o9jO6WilJowBw9QtEJziiWv6IZuIkyTeqlYAMtBc-YLHk2h7aQ4MDttg?width=640&height=479&cropmode=none)
 #### Partitionen erstellen
