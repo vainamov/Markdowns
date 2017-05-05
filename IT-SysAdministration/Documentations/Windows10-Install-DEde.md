@@ -60,7 +60,7 @@ Mit "Neu" ("Uusi") werden neue Partitionen erstellt. Windows wird hierbei automa
 ![Partitions](https://sjwfcg.bl3302.livefilestore.com/y4m3652mOZAXYAdHBZu1NLbRUKOPg4UrV7t5MDSvbQA4xb_p9rQCHnJ2s376HytyazIgjt-IaJlHga8bJ7zWiSfM7zCSYIKUmoodGLCqmBsHveV3FEjG1WQmVBghzyljmvIZGpCX_AZ5pd6-9zy2psHOQhE9UBG83p4PUYVGupo8-yOJFbmsth-mnYU9Eup-ijJ5dVHsMGkMfyPdhHCgpCrwQ?width=640&height=480&cropmode=none)
 
 ### Abschließen
-- Beim Konfigurieren von Windows ("Benutzerdefiniert" wo möglich wählen) sollten alle Datenschutz-relevaten Optionen deaktiviert werden.
+- Beim Konfigurieren von Windows ("Angepasst" wo möglich wählen) sollten alle Datenschutz-relevaten Optionen deaktiviert werden.
 - Es sollte zwischen einer privaten und einer Business Installation.
 - Es sollte immer zu erst ein lokaler Account erstellt werden. Selbst wenn die Verwendung eines Microsoft Accounts geplant ist, sollte erst ein lokaler Account erstellt werden und dann mit dem Microsoft Account verbunden werden.
 - Nachdem dem Neustart der VM "I Finished Installing" in VMware Workstation auswählen.
