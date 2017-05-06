@@ -40,7 +40,7 @@ Für einen LDAP Server mit der Adresse `10.60.20.251:1389` und folgender Struktu
     - uid=user2
     - uid=...
   
-sollte die Konfiguration so aussehen wie auf dem Screenshot. Nichtsdestotrotz, je nach verwendeter Server Software muss die "Member Attribute value" evtl. zu `memberUid` geändert werden und/oder das "User DN Pattern" mit `cn=%u,` beginnen.
+sollte die Konfiguration so aussehen wie auf dem Screenshot. Nichtsdestotrotz, je nach verwendeter Server Software muss das "Member Attribute" evtl. zu `memberUid` geändert werden und/oder das "User DN Pattern" mit `cn=%u,` beginnen.
 
 #### Authorization
 Im Authorization Tab können Einstellungen zur Vergabe von Rechten vorgenommen werden. Die [pGina Dokumentation](http://pgina.org/docs/v3.1/ldap.html) enthält im Abschnitt "Authorization Options" ausführlichere Infos.  
@@ -50,19 +50,19 @@ Der "Gateway" Tab stellt Einstellungen bereit, um LDAP Benutzer anhand ihrer LDA
 
 ![Plugin](https://sjw78w.bl3302.livefilestore.com/y4m4AV0uDn-O4GQ_Ff6NG3naMAMKZeiTl7O1-AEyIIpHJfCO3Q-_Qzan2lfeeWW8mZFACh6tEy0JKM3c5LXxcee83REABLxZ9Z0jjEEQmMMj1xg3ewTMkxjEuUk4G4tNKARG6z7gp2gewJL7VBlV1NfKNFPGUAAmgxN6IAmam9Qj4Vtc17pCFBGDe4qQYDxD3FK9GFPFedw1ug62ukM0oOPHg?width=703&height=313&cropmode=none)  
 
-> Warnung: Die lokalen Gruppennamen müssen 100% übereinstimmen. Eine Liste aller lokalen Gruppen und ihrer exakten Schreibweise liefert der `net localgroup`-Command. (`WIN+R` > `cmd` > `Enter` > `net localgroup` > `Enter`). Der Command erzeugt eine Ausgabe ähnlich der des folgenden Screenshots.  
+> Warnung: Die lokalen Gruppennamen müssen 100% übereinstimmen. Eine Liste aller lokalen Gruppen und ihrer exakten Schreibweise liefert der `net localgroup`-Command. (`WIN+R` > `cmd` > `ENTER` > `net localgroup` > `ENTER`). Der Command erzeugt eine Ausgabe ähnlich der des folgenden Screenshots.  
 
 ![Plugin](https://dz6qlg.bl3302.livefilestore.com/y4mhBva97CJTCbSk6pUoqFzIkZccUDCUsJOMUIkPOnXwb6f4MXafvUMgmz3GO7tnK8WA_hQ6Aqp6TA8QbvOUPSw5suEO-ewzq6K52dWC0X0-L41jmt3NpsKU6JqnY4bU7wdknGPYQHR61BAERKiSZUmqVRwU_Orvm0I4_D9tTgoqwqknWoQfTbkFZWQ5Ck9mlGq8iK-wYppSx9eDgAun_VwjA?width=660&height=347&cropmode=none)  
 
-Um die Änderungen zu übernhemen muss "Save" geklickt werden **und** "Apply" in pGina, da sonst die Änderungen nicht in die Registry übernommen werden.  
+Um die Änderungen zu übernhemen muss "Save" geklickt werden **und** "Apply" in pGina, da sonst die Änderungen nur in pGina gespeichert werden werden aber nicht in der Registry übernommen werden.  
 
 ***
 ### Testen der Konfiguration
-Es stehen 2 Möglichkeiten zum Testen der Einstellungen zur Verfügung. Zum einen kann die in pGina integrierte Simulation benutzt werden oder der umständlichere Weg über Ab- und Anmelden.
+Es stehen 2 Möglichkeiten zum Testen der Einstellungen zur Verfügung. Zum einen, kann die in pGina integrierte Simulation benutzt werden oder der umständlichere Weg über Ab- und Anmelden.
   
 ***
 ### Troubleshooting
-Gesetz des Falles das beim Testen Fehler auftreten stehen verschiedene Hilfen bereit. Zuallererst sollte der Simulationslog gesichtet werden ("Show Log" Button im Simulation Tab). In der Regel stellt dieser ausreichend Informationen bereit um die Fehlerquelle eindeutig zu identifizieren. Sollte dies nicht ausreichen um das Problem zu beheben, empfiehlt es sich die [geschlossenen Issues in der pGina Repository](https://github.com/pgina/pgina/issues?q=is%3Aissue+is%3Aclosed) anzusehen, eventuell trat eben jenes Problem bereits in der Vergangenheit auf und wurde bereits gelöst. Sollte wider Erwarten das Problem dort nicht aufgeführt sein, muss [ein neuer Issue erstellt](https://github.com/pgina/pgina/issues/new) werden. Hierbei sollte das Problem so detailiert wie möglich beschrieben werden und auch der Simulationslog angehängt werden.
+Gesetz des Falles das beim Testen Fehler auftreten sollten, stehen verschiedene Hilfen bereit. Zuallererst sollte der Simulationslog gesichtet werden ("Show Log" Button im Simulation Tab). In der Regel stellt dieser ausreichend Informationen bereit um die Fehlerquelle eindeutig zu identifizieren. Sollte dies nicht ausreichen um das Problem zu beheben, empfiehlt es sich die [geschlossenen Issues in der pGina Repository](https://github.com/pgina/pgina/issues?q=is%3Aissue+is%3Aclosed) anzusehen, eventuell trat eben jenes Problem bereits in der Vergangenheit auf und wurde bereits gelöst. Sollte wider Erwarten das Problem dort nicht aufgeführt sein, muss [ein neuer Issue erstellt](https://github.com/pgina/pgina/issues/new) werden. Hierbei sollte das Problem so detailiert wie möglich beschrieben werden und auch der Simulationslog angehängt werden.
   
 ***
 ### Abschließen
