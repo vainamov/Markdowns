@@ -66,12 +66,11 @@ Gesetz des Falles das beim Testen Fehler auftreten sollten, stehen verschiedene 
   
 ***
 ### Abschließen
-- Mit einem Doppelklick auf das Locale Machine Plugin im "Plugin Selection" Tab lässt sich die Option "Remove account and profile after logout when account does not exist prior to logon." aktivieren.  
-  Infolgedessen wird Windows nach dem Abmelden den von pGina erstellten Benutzerordner wieder entfernen und so verhindern, dass der `C:\Users\`-Ordner überfüllt wird.
+- Mit einem Doppelklick auf das Locale Machine Plugin im "Plugin Selection" Tab lässt sich die Option "Remove account and profile after logout when account does not exist prior to logon." aktivieren. Infolgedessen wird Windows nach dem Abmelden den von pGina erstellten Benutzerordner wieder entfernen und so verhindern, dass der `C:\Users\`-Ordner überfüllt wird.
 - Im "General" Tab lässt sich überdies das Aussehen des pGina Services anpassen. Es besteht die Möglichkeit ein Bild festzulegen sowie eine MOTD (message of the day) und eine Nachricht beim Verbinden anzuzeigen.
   
 ***
 ### Automatisches Drive Mapping
-Ab [pGina 3.2.1.1 Beta](https://github.com/pgina/pgina/releases/tag/v3.2.1.1) enthält pGina das "Drive Mapper" Plugin. Es ermöglich beim Anmelden automatisch Netzwerklaufwerke einzubinden (z.B. ein Home Verzeichnis auf einem NAS). Sofern der Einsatz von nicht-stable Releases nicht gewünscht ist besteht die Möglichkeit das Plugin alleine in die bestehende pGina Installtion einzubinden, indem man die `.dll` im Plugin Verzeichnis `C:\Program Files\pGina\Plugins\Core\` ablegt.  
+Ab der [3.2.1.1 Beta](https://github.com/pgina/pgina/releases/tag/v3.2.1.1) enthält pGina das "Drive Mapper" Plugin. Es ermöglicht beim Anmelden automatisch Netzwerklaufwerke einbinden zu lassen (z.B. ein Home Verzeichnis auf einem NAS). Sofern der Einsatz von Stable Releases präferiert wird, besteht die Möglichkeit das Plugin alleine in die bestehende pGina Installtion einzubinden, indem man die `.dll` im Plugin Verzeichnis von pGina (`C:\Program Files\pGina\Plugins\Core\`) ablegt.  
 
 ![Plugin](https://dz50rq.bl3302.livefilestore.com/y4mSqh1KqdBCg_cflJAUyekxXWHxcM1ShKWQf5EM8zhBLPivVOBwGQlAUOw9be7eBkKwj5pYtk3cTOAeaFj0HZa48QBWjSK6jg-xjSEuq2qEAJgeU5STtgAOYHAuUZY8uysUr6nmnGvvQHMvcBMAU0qKd7h-PgvJHPLSnWV--tuqECGqRsmbs-tiQHiqa4G3Lc4IheIDNTLRcLWKlACnvx-7A?width=825&height=622&cropmode=none)
